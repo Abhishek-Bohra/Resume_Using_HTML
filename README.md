@@ -1,10 +1,10 @@
 <b>Project Title</b> :-  Resume_Using_HTML
 <br>
 <hr>
-<b>Description</b>: This project involves creating a digital resume using HTML, showcasing personal information, education background, skills highlights, programming skills, summary, and projects.
+<b>Description</b> :-  This project involves creating a digital resume using HTML, showcasing personal information, education background, skills highlights, programming skills, summary, and projects.
 <br>
 <hr>
-<b>Key Features</b>:
+<b>Key Features</b> :-
 Utilizes HTML markup for structuring the resume.
 Incorporates styling elements such as fonts, colors, and alignment for better presentation.
 Includes a table layout for organizing different sections of the resume.
@@ -12,7 +12,7 @@ Provides detailed information about the individual's contact details, education,
 Utilizes hyperlinks to link to external profiles such as LinkedIn and GitHub.
 <br>
 <hr>
-<b>Components</b>:
+<b>Components</b> :-
 Contact Information: Includes address, phone number, email, and links to LinkedIn and GitHub profiles.
 Education: Lists educational institutions attended along with respective grades or CGPA.
 Skills Highlights: Highlights key skills such as decision-making, problem-solving, creativity, and time management.
@@ -21,8 +21,8 @@ Summary: Provides a brief summary highlighting the individual's passion for lear
 Projects: Details various projects undertaken, including descriptions of their implementations and technologies used.
 <br>
 <hr>
-<b>Technology Used</b>:
+<b>Technology Used</b> :-
 HTML
 CSS (minimal styling)
 <br>
-Purpose: The purpose of this project is to create a visually appealing and informative digital resume that can be easily accessed and shared online, demonstrating the individual's qualifications, skills, and achievements effectively.
+Purpose :- The purpose of this project is to create a visually appealing and informative digital resume that can be easily accessed and shared online, demonstrating the individual's qualifications, skills, and achievements effectively.
