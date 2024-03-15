@@ -1,4 +1,4 @@
-Project Title: Resume_Using_HTML
+<b>Project Title</b>: Resume_Using_HTML
 <br>
 Description: This project involves creating a digital resume using HTML, showcasing personal information, education background, skills highlights, programming skills, summary, and projects.
 <br>
